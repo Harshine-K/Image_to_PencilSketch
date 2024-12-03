@@ -20,12 +20,15 @@ To run this app locally, follow these steps:
    
 2. **Navigate to the Project Directory**
    
+   ```bash
    cd repo-name
 
 4. **Install the Dependencies**
     
+   ```bash
    pip install -r requirements.txt
    
 6. **Run the Streamlit App**
 
+   ```bash
    streamlit run app.py
